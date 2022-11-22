@@ -26,4 +26,10 @@ Somewhat of a social network to share posts.
 
 ## Screenshots
 
-![1.](https://github.com/rushipvaghasiya/sharePosts/main/screenshots/1.JPG?raw=true)
+![HomePage](screenshots/1.JPG?raw=true)
+![](screenshots/2.JPG?raw=true)
+![](screenshots/3.JPG?raw=true)
+![](screenshots/4.JPG?raw=true)
+![](screenshots/5.JPG?raw=true)
+![](screenshots/6.JPG?raw=true)
+![](screenshots/7.JPG?raw=true)
