@@ -23,3 +23,7 @@ Somewhat of a social network to share posts.
 4. Bootstrap UI
 5. Posts CRUD
 6. Helper functions
+
+## Screenshots
+
+![none](/screenshots/1.jpg?raw=true)
