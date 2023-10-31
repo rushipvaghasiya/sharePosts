@@ -8,8 +8,6 @@ Somewhat of a social network to share posts.
 
 -> Built a custom MVC Framework from scratch.
 
--> Built an application using the custom framework.
-
 -> Created a custom PDO class to handle database interactions.
 
 -> Complete user authentication using OOP & PDO.
